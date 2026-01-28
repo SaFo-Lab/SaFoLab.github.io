@@ -3,13 +3,13 @@
 - name: Chaowei Xiao
   picture: /images/people/chaoweixiao.jpg
   home_url: https://xiaocw11.github.io
-  description: Chaowei is an assistant professor at the University of Wisconsin, Madison, and also a research scientist at NVIDIA.
+  description: Chaowei is an assistant professor at Johns Hopkins University and a Faculty Researcher at NVIDIA. He focuses on building safe AGI with both practical robustness and provable guarantees.
   rank: faculty
   links:
     - type: scholar
       url: https://scholar.google.com/citations?user=Juoqtj8AAAAJ&hl=en
     - type: github
-      url: https://github.com/SaFoLab-WISC
+      url: https://github.com/SaFo-Lab
     - type: twitter
       url: https://twitter.com/ChaoweiX
 # Phd students

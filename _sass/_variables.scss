@@ -38,6 +38,8 @@ $red: #f95020 !default;
 $cardinal: #8c1515 !default;
 $green: #00cf26 !default;
 $usc-red: #990000 !default;
+$jhu-heritage-blue: #002D72 !default; // JHU Primary Color
+$jhu-spirit-blue: #68ACE5 !default; // JHU Secondary Color
 $yellow: #efcc00 !default;
 $orange: #ffcc22 !default;
 $purple: #f92080 !default;
@@ -57,8 +59,8 @@ $darken-4: rgba(#000,.5) !default;
 
 
 // Links
-$link-color: $usc-red;
-$link-hover-color: darken($usc-red, 40%);
+$link-color: $jhu-heritage-blue;
+$link-hover-color: $jhu-spirit-blue;
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';

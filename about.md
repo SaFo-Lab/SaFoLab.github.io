@@ -1,87 +1,69 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+# Chaowei Xiao
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+## Current Position
 
-Thanks to the following:
+**Assistant Professor**  
+[Johns Hopkins University](https://www.jhu.edu/)  
+[Department of Computer Science](https://www.cs.jhu.edu/)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+**Faculty Researcher**  
+[NVIDIA](https://www.nvidia.com/)
 
-List of contributors:
+**Email**: chaoweixiao@jhu.edu
 
-- Aaron S. Hawley
-- Adam Menges
-- Alex Claman
-- Alex Johnson
-- Alex Touchet
-- Allister Antosik
-- Amin Bandali
-- Anders Nissen
-- Andrea Margiovanni
-- Andrzej Ośmiałowski
-- Anuj More
-- Arvind Chembarpu
-- Assaf Gelber
-- Barry vd. Heuvel
-- Bartek Krzemień
-- Bartek Krzemień
-- Bennett Rogers
-- Brian Gaid
-- Brian Hurst
-- Chee Yeo
-- Cody Chan
-- Cristian Henrique
-- David Ernst
-- Donate Altenburger
-- Fernando Mantoan
-- Gurchet Rai
-- Harish Narayanan
-- Jehan Tremback
-- Jiaxi Gu (Isaac)
-- John Otander
-- Jordan Danielewski
-- Josh Buxton
-- Kirill Kulikov
-- Kyle Maxwell
-- Marta Sztybor
-- Martin Wagner
-- Matthew Graybosch
-- Maxim Tsoy
-- Mete Balci
-- Mike Lloyd
-- Mikhail Grachev
-- mindwind
-- Nick Rakochy
-- Nikolay Georgiev
-- Oliver Hamlet
-- Onur (e0i)
-- Praveer Gupta
-- Rassol (Karmeye)
-- Ricky Han
-- Roberto Pesando
-- Ryan Jacobs
-- Scott Martin
-- Selim Eren Bekçe
-- Shruti Rijhwani
-- Steef Hegeman
-- Tehmasp Chaudhri
-- Thomas Galvin
-- Timothy Gu
-- Tom Kraak
-- Vishnu Ks
-- Vladislav Arbatov
-- Yaroslav Yadrishnikov
-- Yee Chie Tu
-- Yeou Chien
+## Biography
+
+Chaowei Xiao is an Assistant Professor at Johns Hopkins University and a Faculty Researcher at NVIDIA. His research focuses on building safe AGI with both practical robustness and provable guarantees, as well as real-world applications including autonomous driving, agents, IoT, and healthcare. His recent research interests include safe and secure computer-use-agents and embodied agents.
+
+Prior to joining Johns Hopkins, he was an Assistant Professor at the University of Wisconsin-Madison for two years. He received his Ph.D. from the University of Michigan, Ann Arbor, and his Bachelor's degree from Tsinghua University.
+
+## Research Interests
+
+- **LLM Security & Safety**: Adversarial robustness, jailbreak attacks and defenses, prompt injection
+- **Multimodal Learning**: Vision-language models, multimodal LLMs
+- **AI Safety**: Trustworthy AI systems, certified robustness
+- **Diffusion Models**: Security and robustness of generative models
+- **Autonomous Systems**: Self-driving vehicles, embodied AI agents
+- **Applied AI**: IoT security, healthcare applications
+
+## Honors & Awards
+
+- **2024**: Schmidt Sciences AI2050 Early Career Fellow
+- **2024**: USENIX Security Distinguished Paper Award
+- **2024**: Stanford/Elsevier Top 2% Scientists
+- **2025**: ICLR Spotlight (AutoDAN-Turbo)
+- **2021**: EWSN Best Paper Award
+- **2014**: MobiCom Best Paper Award
+
+## Education
+
+- **Ph.D. in Computer Science**, University of Michigan, Ann Arbor
+- **B.S. in Computer Science**, Tsinghua University
+
+## Professional Service
+
+- Area Chair / Senior Program Committee: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV
+- Program Committee: ACL, EMNLP, NAACL, USENIX Security, IEEE S&P
+- Journal Reviewer: TPAMI, IJCV, JMLR
+
+## Selected Publications
+
+Please visit our [Publications](/publications/) page for a complete list of publications.
+
+## Lab Information
+
+The Safe And secure Foundation mOdel systems Lab (SaFoLab) at Johns Hopkins University is dedicated to pioneering research in trustworthy (MultiModal) Large Language Model Systems. Our mission is to develop robust and secure AI systems that can be trusted across various application domains.
+
+**Lab Website**: [https://safo-lab.github.io](https://safo-lab.github.io)  
+**GitHub**: [https://github.com/SaFo-Lab](https://github.com/SaFo-Lab)
+
+---
+
+*Last updated: January 2026*

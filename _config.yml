@@ -1,10 +1,10 @@
 # Site settings
-title:       SaFoLab-WISC
-email:       
-author:      SaFoLab-WISC
-description: "SaFo: Safe And secure Foundation mOdel systems Labs"
+title:       SaFoLab-JHU
+email:       chaoweixiao@jhu.edu
+author:      SaFoLab-JHU
+description: "SaFo Lab: Safe And secure Foundation mOdel systems Lab at Johns Hopkins University"
 baseurl:     ""
-url:         "https://safolab.github.io"
+url:         "https://safo-lab.github.io"
 date_format: "%b, %Y"
 header_pages:
  - people.html
@@ -49,7 +49,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: SaFoLab-WISC
+github_username: SaFo-Lab
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
