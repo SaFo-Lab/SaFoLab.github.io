@@ -1,0 +1,42 @@
+name: Deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - source
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          ref: source
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Deploy to main branch
+        run: |
+          cd _site
+          git init
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git commit -m "Deploy site at $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          git push -f https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
