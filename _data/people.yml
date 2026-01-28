@@ -12,40 +12,60 @@
       url: https://github.com/SaFo-Lab
     - type: twitter
       url: https://twitter.com/ChaoweiX
-# Phd students
-- name: Jiongxiao Wang
-  picture: /images/people/jiongxiaowang.png
-  home_url: https://jiongxiao-wang.github.io/
-  description: Ph.D.
-  rank: phd
-  links:
-    - type: scholar
-      url: https://scholar.google.com/citations?user=sIGapHMAAAAJ
-    # - type: github
-    #   url: https://github.com/Jayfeather1024
-    - type: twitter
-      url: https://x.com/JiongxiaoW
+
+# PhD students at JHU
 - name: Xiaogeng Liu
   picture: /images/people/xiaogengliu.png
   home_url: https://sheltonliu-n.github.io/
-  description: Ph.D.
+  description: Ph.D. student at Johns Hopkins University (transferred from UW-Madison). NVIDIA Fellowship on Security track (2024).
   rank: phd
   links:
     - type: scholar
       url: https://scholar.google.com.hk/citations?user=Gvs5nz8AAAAJ&hl=zh-CN
     - type: github
-      url: https://github.com//SheltonLiu-N
+      url: https://github.com/SheltonLiu-N
     - type: twitter
       url: https://x.com/XiaogengLiu
-- name: Yingzi Ma
-  picture: /images/people/yingzi.jpg
-  home_url: https://gray311.github.io/
-  description: Ph.D.
+
+- name: Zhengyue Zhao
+  picture: /images/people/default-white.png
+  home_url: https://openreview.net/profile?id=~Zhengyue_Zhao1
+  description: Ph.D. student at Johns Hopkins University (transferred from UW-Madison).
   rank: phd
   links:
     - type: scholar
-      url: 
+      url: https://scholar.google.com/
+
+# PhD students at other institutions
+- name: Yingzi Ma
+  picture: /images/people/yingzi.jpg
+  home_url: https://gray311.github.io/
+  description: Ph.D. student at University of Wisconsin-Madison.
+  rank: phd
+  links:
+    - type: scholar
+      url: https://scholar.google.com/
     - type: github
-      url: 
-    - type: twitter
-      url:
+      url: https://github.com/gray311
+
+- name: Hao Li
+  picture: /images/people/default-white.png
+  home_url: https://leolee99.github.io/
+  description: Ph.D. student at Washington University in St. Louis (Co-advised with Ning Zhang).
+  rank: phd
+  coadvisor: Ning Zhang
+  links:
+    - type: scholar
+      url: https://scholar.google.com/
+    - type: github
+      url: https://github.com/LeoLee99
+
+- name: Weidi Luo
+  picture: /images/people/default-white.png
+  home_url: https://openreview.net/profile?id=~Eddy_Luo1
+  description: Ph.D. student at University of Georgia (Co-advised with Zheng Xiang).
+  rank: phd
+  coadvisor: Zheng Xiang
+  links:
+    - type: scholar
+      url: https://scholar.google.com/

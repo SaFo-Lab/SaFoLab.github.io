@@ -164,12 +164,26 @@ img {vertical-align: middle}
     <i>Check out our <a href="https://github.com/SaFo-Lab/">github group</a> for our latest projects and publications.</i>
     
     <div class="tab">
+        <button class="tablinks" onclick="openTab(event, '2025')">2025</button>
         <button class="tablinks" onclick="openTab(event, '2024')">2024</button>
         <button class="tablinks" onclick="openTab(event, '2023')">2023</button>
         <button class="tablinks" onclick="openTab(event, '2022')">2022</button>
         <!-- Add more buttons for additional years as needed -->
     </div>
-    
+
+    <div id="2025" class="tabcontent">
+        <table class="news">
+            {% for entry in site.data.news %}
+            {% if entry.date contains "2025" %}
+            <tr>
+                <td width="12%"><b>{{ entry.date | date: site.date_format }}:</b></td>
+                <td width="88%">{{ entry.content }}</td>
+            </tr>
+            {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+
     <div id="2024" class="tabcontent">
         <table class="news">
             {% for entry in site.data.news %}
