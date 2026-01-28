@@ -1,83 +1,99 @@
+# 2025 News
+- date: 2025-01
+  content: "Nine papers accepted to ICLR 2025! Including AutoDAN-Turbo (Spotlight), T-Stitch, LeanAgent, MuirBench, and more."
+
+- date: 2025-01
+  content: "Three papers accepted to ACL 2025 on LLM safety: PIGuard, SudoLM, and AGrail."
+
+- date: 2025-01
+  content: "Three papers accepted to NAACL 2025: CVE-Bench, RePD, and Test-time Backdoor Mitigation."
+
+- date: 2025-01
+  content: "JailbreakV won Second Prize of SafeBench Competition."
+
+- date: 2025-01
+  content: "Two papers on Preference Poisoning Attacks accepted to ICML 2025 and IEEE S&P 2025."
+
+# 2024 News
+- date: 2024-12
+  content: "Fall Research Competition Award at UW-Madison."
+
 - date: 2024-11
-  content: "SoFaLab will have a winter break this Dec. Lab members will  enjoy some well-deserved vacation time, with their families and loved ones."
+  content: "Lab received funding from Amazon and Apple."
+
 - date: 2024-11
-  content: "Jiongxiao will go to NeurIPS to present our paper BackdoorAlign for finetuning based jailbreak attacks and efficient diffusion model based adversarail purification framework."
+  content: "SaFo Lab will have a winter break this Dec. Lab members will enjoy some well-deserved vacation time."
+
+- date: 2024-11
+  content: "Jiongxiao will go to NeurIPS to present our paper BackdoorAlign for finetuning based jailbreak attacks."
 
 - date: 2024-10
-  content: "PI will give talk at CCS, TPC workshop "
+  content: "Prof. Chaowei Xiao gave keynote at CCS Workshop on Large AI Systems."
+
+- date: 2024-10
+  content: "Xiaogeng Liu won NVIDIA Fellowship (Security track)."
+
 - date: 2024-09
-  content: "4 Paper at NeurIPS."
+  content: "Four papers accepted to NeurIPS 2024: HaloScope (Spotlight), BackdoorAlign, Consistency Purification, and AgentPoison."
 
 - date: 2024-08
-  content: "We got USENIX Security Dishtingushed Paper Award."
+  content: "Won USENIX Security Distinguished Paper Award."
+
+- date: 2024-08
+  content: "Selected as Schmidt Sciences AI2050 Early Career Fellow."
+
+- date: 2024-08
+  content: "ACM Gordon Bell Final list nominee."
+
+- date: 2024-08
+  content: "Selected in Stanford/Elsevier Top 2% Scientists List."
 
 - date: 2024-07
-  content: "4/4 papers are accepted to ECCV on the topic of trustworthy VLM and driving. Two of them are from interns in my group."
+  content: "Four papers accepted to ECCV 2024 on trustworthy VLM and autonomous driving: Dolphins, AdaShield, RealGen, and Hierarchical Feature Sharing."
+
+- date: 2024-07
+  content: "MultiModal jailbreak benchmark (JailbreakV-28K) accepted to COLM 2024."
 
 - date: 2024-06
-  content: "Prof. Chaowei Xiao will give a talk to discuss recent progress on the Security in era of Vision Large Language Models at CVPR."
+  content: "Prof. Chaowei Xiao gave talk on Security in era of Vision Large Language Models at CVPR."
+
 - date: 2024-06
-  content: "Prof. Chaowei Xiao will give a talk to discuss recent progress on the Security in era of Large Language Models at NAACL."
+  content: "Prof. Chaowei Xiao gave talk on Security in era of Large Language Models at NAACL."
 
 - date: 2024-05
-  content: "Prof. Chaowei Xiao will give a talk to discuss recent progress on the Security in era of Large Language Models at ICLR."
+  content: "Prof. Chaowei Xiao gave talk at ICLR on recent progress in LLM security."
 
 - date: 2024-05
-  content: "Our jailbreak paper is accepted to USENIX Security. Congratulations, Zhiyuan! "
+  content: "Jailbreak paper (Do Not Listen To Me) accepted to USENIX Security 2024. Congratulations, Zhiyuan!"
 
 - date: 2024-03
-  content: "Five papers at NAACL on LLM security (4 main and 1 finding): two on the backdoor attack, one on backdoor defense, one on jailbreak attacks, and one on model fingerprint. Stay tuned on these exciting fields."
-  
+  content: "Five papers at NAACL 2024 on LLM security: two on backdoor attack, one on backdoor defense, one on jailbreak attacks, and one on model fingerprint."
+
 - date: 2024-03
-  content: "PreDa for personalized federated learning is accepted at CVPR 2024."
-  
-- date: 2024-01
-  content: "Three papers at ICLR."
+  content: "PerAda for personalized federated learning accepted at CVPR 2024."
 
 - date: 2024-01
-  content: "Two papers at TMLR"
+  content: "Three papers accepted to ICLR 2024: AutoDAN, ChatGPT-powered Drug Editing, and CALICO."
 
+- date: 2024-01
+  content: "Two papers accepted to TMLR: Prismer and Voyager."
+
+# 2023 News
 - date: 2023-12
-  content: "Invited Talk at NeurIPS TDW workshop"
+  content: "Invited Talk at NeurIPS TDW workshop."
 
 - date: 2023-10
-  content: "Our paper MoleculeSTM has been accepted to Nature Machine Intelligence. MoleculeSTM aims to align the nature language and molecule representation into the same representation space."
+  content: "MoleculeSTM accepted to Nature Machine Intelligence. MoleculeSTM aligns natural language and molecule representation into the same space."
 
 - date: 2023-10
-  content: "Three papers at EMNLP and one paper at NeurIPS. For our NeurIPS paper, we study a new threat of the instruction tuning of LLMs by injecting the Ads. This is the first work that views the LLMs as the generative model and aims to attack the generative property of LLMs."
+  content: "Three papers at EMNLP and one paper at NeurIPS. NeurIPS paper studies new threat of instruction tuning by injecting Ads into LLMs."
 
 - date: 2023-10
-  content: "Our tutorial on Security and Privacy in the Era of Large Language Models is accepted to NAACL."
+  content: "Tutorial on Security and Privacy in the Era of Large Language Models accepted to NAACL."
 
-- date: 2023-05
-  content: "One paper at ACL. Congratulations to zhuofeng and jiazhao. We propose an attention-based method to defend against NLP backdoor attacks"
-  
-- date: 2023-04
-  content: "Two papers at ICML. Congratulations to Jiachen and Zhiyuan. We propose the first benchmark for code copyright of code generation models."
-
-- date: 2023-02
-  content: "Two papers at CVPR. Congratulations to Yiming and Xiaogeng. Xiaogeng is an intern from my group at ASU."
-
-- date: 2023-02
-  content: "I will give a tutorial at CVPR 2023 on the topic of trustworthiness in the era of Foundation Models. Stay tuned!"
-
-- date: 2023-01
-  content: "Impact Award from Argonne National Laboratory."
-
-- date: 2023-01
-  content: "One paper got accepted to USENIX Security 2023."
-
-- date: 2023-01
-  content: "Three papers are accepted to ICLR 2023 [a]: We explain why and how to use diffusion model to improve adversarial robustness and design DensePure which leverages the pretrained diffusion model and classifier to provide the state-of-the-art certified robustness. [b]:This is our first attemp on retrieval-based framework and AI for drug discovery. We will recently release more work in this research line. Stay tuned!"
-
-- date: 2022-12
-  content: "[12/2022] Our team won the ACM Gordon Bell Special Prize for COVID-19 Research."
+# 2022 News
+- date: 2022-10
+  content: "DensePure accepted to ICLR 2023."
 
 - date: 2022-09
-  content: "One papers got accepted to USENIX Security 2023."
-
-- date: 2022-09
-  content: "Two papers got accepted to NeurIPS 2022."
-
-- date: 2022-09
-  content: "Our paper RobustTraj has been accepted to CORL for oral presentations. We explore to train a robust Trajectory Prediction Model against adversarial attacks."
+  content: "Three papers accepted to NeurIPS 2022."
